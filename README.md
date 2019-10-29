@@ -4,3 +4,4 @@ racingCar.py is an animation of two cars racing, use the arrow keys to speed-up,
 windMill.py is an animation of a wind mill. Use the buttons to control the speed, pause and resume the wind mill. Made with Tkinter.
 fractalRectangle is an animation of drawing using recursive function on Turtle.
 sierpinskiTriangle.py is an animation of sierpinski Triangles using recursive function on Turtle.
+flag.py is an animation of the US flag using Turtle.
