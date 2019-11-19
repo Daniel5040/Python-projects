@@ -6,4 +6,5 @@ fractalRectangle is an animation of drawing using recursive function on Turtle.
 sierpinskiTriangle.py is an animation of sierpinski Triangles using recursive function on Turtle.
 flag.py is an animation of the US flag using Turtle.
 eightQueens_1 is the simple solution of the game Eight Queens, it only shows one answer to the puzzle
-eightQueens_2 is an update to the eightQueens_1 where the code is updated to implement all the solutions possible for the Eight Queens puzzle
+eightQueens_2 is an update to the eightQueens_1 where the code is updated to implement all the solutions possible for the Eight Queens puzzle.
+beanMachineGUI.py is an animation of a bean machine. The user can chose the amount of balls to be dropped and the number of slots.
